@@ -39,6 +39,10 @@
 .icon4 {
   margin-bottom: 3em;
 }
+.fig > img {
+  width: 25%;
+  height: 25%;
+}
 .fig > figcaption {
   text-align: center;
   padding: 2em;
