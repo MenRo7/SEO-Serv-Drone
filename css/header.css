@@ -1,38 +1,4 @@
-.header {
-  height: 600px;
 
-  background: center / cover no-repeat url(../images/header.jpg);
-}
-
-.header-1 {
-  background: linear-gradient(#194b8165, #194b8165),
-  center / cover no-repeat url(../images/header-1.jpg);
-}
-
-.header-2 {
-  background: linear-gradient(#194b8165, #194b8165),
-  center / cover no-repeat url(../images/header-2.jpg);
-}
-
-.header-3 {
-  background: linear-gradient(#194b8165, #194b8165),
-  center / cover no-repeat url(../images/header-3.jpg);
-}
-
-.header-4 {
-  background: linear-gradient(#194b8165, #194b8165),
-  center / cover no-repeat url(../images/header-4.jpg);
-}
-
-.header-5 {
-  background: linear-gradient(#194b8165, #194b8165),
-  center / cover no-repeat url(../images/header-5.jpg);
-}
-
-.header-6 {
-  background: linear-gradient(#194b8165, #194b8165),
-  center / cover no-repeat url(../images/header-6.jpg);
-}
 
 .header-small {
   height: 400px;
